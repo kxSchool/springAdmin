@@ -3,7 +3,7 @@
 
 >  **网站系统** 
 
->  **实现高并发单机QPS：5000** 
+>  **实现高并发单机QPS：15000** 
 
 ![JDK](https://img.shields.io/badge/jdk-1.8-green.svg?style=flat-square) 
 
