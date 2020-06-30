@@ -3,9 +3,7 @@
 
 >  **网站系统** 
 
->  **xxxxxxxxxxxxxx！** 
-
->  **xxxxxxxxxxxxxxxxxxx非常感谢！** 
+>  **实现高并发单机QPS：5000** 
 
 ![JDK](https://img.shields.io/badge/jdk-1.8-green.svg?style=flat-square) 
 
